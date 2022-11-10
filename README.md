@@ -1,1 +1,1 @@
-https://isabellyreis.github.io/curriculo
+https://isabellyreis.github.io/Curriculo
