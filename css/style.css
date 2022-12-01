@@ -122,7 +122,7 @@ h3.header-text{
 
 .btn-primary {
   background-color: #CCAACC;
-  border-color: #228989;
+  background-color: #CCBBFF;
 }
 .btn-primary:hover{
   background-color: #6DD1C9;
@@ -151,7 +151,7 @@ a.header-btn {
 }
 
 .header-btn:hover {
-    color: rgb(35, 140, 133);
+    color: #EC7787;
     background-color: #fff;
     border: 1px solid;
     box-shadow: none;
@@ -231,7 +231,7 @@ a.header-btn {
 margin-right: -250px;
 right: 0;
 width: 250px;
-background: #1F5F61;
+background-color: #CCBBEE;
 position: fixed;
 height: 100%;
 overflow-y: auto;
